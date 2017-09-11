@@ -2,7 +2,7 @@
 Adventure game using Allegro graphics library in C++
 
 
-Links for complete repository with resources:
+Links for complete repository with working game and source code:
 
 Google Drive:
     https://drive.google.com/open?id=0BwUhsIoak16yQ1lXeXhGNXVDSU0
