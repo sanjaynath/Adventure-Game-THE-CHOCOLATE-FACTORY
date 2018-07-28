@@ -34,9 +34,11 @@ After completing the adventure the pplayers name is inducted into the "Greatest 
 
 
 
-
-## Link for complete folder with working game and source code:
-Dropbox:https://www.dropbox.com/sh/9gttutli4px7gyl/AADOTGfQ4nOwdyQy_ri8-1zga?dl=0
+## Running the game
+This complete game with source code and required files can be found in the following link.
+Download the folder, and double click Project1.exe(on Windows)
+### Dropbox:
+   https://www.dropbox.com/sh/9gttutli4px7gyl/AADOTGfQ4nOwdyQy_ri8-1zga?dl=0
 
 
     
